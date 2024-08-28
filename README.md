@@ -39,7 +39,7 @@ go run main.go
 
 ### Endpoints
 
-POST api/shorten
+POST /api/shorten
 
 Shorten a long URL.
 
